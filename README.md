@@ -13,3 +13,7 @@ The animated bubble plots can be run by changing the path for df and df_rich in 
 The world map plots are used to demonstrate gender equality and GINI index. To plot folium world map, download the world map json file from https://github.com/python-visualization/folium/blob/master/examples/data/world-countries.json. The data used in gender equality part involves Indicator.csv and world-countries.json. 
 
 For GINI index, the countries with indicator GINI index in Indicator.csv file are incomplete. Therefore, use gini.csv from https://www.gapminder.org instead. Restart the kernel here. The data used in GINI index part involves Countries.csv, gini.csv and world-countries.json. 
+
+# Environmental Kuznets Curve
+
+The environmental Kuznets Curve 
