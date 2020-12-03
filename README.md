@@ -16,4 +16,4 @@ For GINI index, the countries with indicator GINI index in Indicator.csv file ar
 
 # Environmental Kuznets Curve
 
-The environmental Kuznets Curve 
+The environmental Kuznets Curve could be run by changing the path and the dataset used is the World_indicators (Indicators.csv) at https://www.kaggle.com/worldbank/world-development-indicators file
